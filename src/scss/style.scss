@@ -132,12 +132,10 @@
   justify-items: center;
   align-items: center;
   height: 20vh;
-  border-top: 1px solid lightgray;
+  background-color: #162950;
+  color: white;
 
   div:nth-child(1) {
-      h3 {
-          color: #162950;
-      }
 
       ul {
           list-style-type: none;
